@@ -1,0 +1,2 @@
+# Force-Plate-Data-Analysis-1
+This was initially part of an assignment I had from grad school (Exercise Science) in my Biomechanics class. This is just a result of me taking a deeper dive into the analysis of the data using Python. This part of the assignment had to do with analyzing a 30sec. recording of someone performing a Double-Leg Quiet Stance on a Force Plate. I have the results of the calculations in each section commented out, as well as the calculations themselves so that I can run one at a time...instead of all at once.
