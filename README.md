@@ -35,7 +35,7 @@ This was initially part of an assignment I had from grad school (Exercise Scienc
 
 
 ### Outliers
-* Just did some quick manual calculations to see if there were any outliers in the COP data. Just did it this way because it was a smaller data set compared to the other Force Plate Analysis project I did that was about 60sec. worth of data (60,000+ rows). Also, because it just shows off another python skill that I know. This image is just for the X direction (medial/lateral).
+* Just did some quick manual calculations to see if there were any outliers in the COP data. I just did it this way because it was a smaller data set (~30,000 rows), and it shows off another python skill in the process. This image is just for the X direction (medial/lateral).
 
 ![Signal1-8](https://user-images.githubusercontent.com/94875597/172924176-4ec8f04f-4daf-466e-90b1-b0b492fec45b.png)
 
