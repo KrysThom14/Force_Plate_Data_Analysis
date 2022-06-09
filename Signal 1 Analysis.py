@@ -1,5 +1,5 @@
 # Double-Leg Quiet Stance
-# Analysis of raw Force Plate Data - 60sec. @ 1,000Hz
+# Analysis of raw Force Plate Data - 30sec. @ 1,000Hz
 
 # Import libraries that may be needed
 import pandas as pd
