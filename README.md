@@ -1,2 +1,2 @@
-# Force-Plate-Data-Analysis-1
-This was initially part of an assignment I had from grad school (Exercise Science) in my Biomechanics class. This is just a result of me taking a deeper dive into the analysis of the data using Python. This part of the assignment had to do with analyzing a 30sec. recording of someone performing a Double-Leg Quiet Stance on a Force Plate. The primary measurements in question are Center of Pressure (COP) & Force Data.
+# Force Plate Data Analysis
+This was initially part of an assignment I had from grad school (Exercise Science) in my Biomechanics class. This is just a result of me taking a deeper dive into the analysis of the data using Python. This part of the assignment had to do with analyzing a 30sec. & a 60sec. recording of someone performing a Double-Leg Quiet Stance on a Force Plate. The primary measurements in question are Center of Pressure (COP) & Force Data.
